@@ -2,14 +2,14 @@
 cssclass: clean-embeds
 aliases: [] # Searchable synonyms and translations
 ---
-Modified: `$= dv.current().file.mtime`
-Tags: [#Utility]
+Modified: `$= dv.current().file.mtime`  
+Tags: [#Utility]  
 ****
 
 This [Obsidian](https://obsidian.md/) vault was created to give a base for learning and getting started with Obsidian and taking [[Smart notes]].
 The vault is designed so that it can work as a starting point for your vault and/or as separate vault to guide you in your Obsidian path.
 
-To get started follow then steps in [[#Installation]] and continue with [[Getting started with Obsidian]].
+To get started follow then steps in [Installation](#installation) and continue with [[Getting started with Obsidian]].
 
 # Installation
 1. Install Obsidian from https://obsidian.md/.
