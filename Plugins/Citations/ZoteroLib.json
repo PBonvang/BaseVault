@@ -1,0 +1,85 @@
+[
+	{
+		"id": "http://zotero.org/users/local/MAd6XQeC/items/G35AXDA8",
+		"type": "article-journal",
+		"abstract": "We review a diversity of studies of human social interaction and highlight the importance of social signals. We also discuss recent findings from social cognitive neuroscience that explore the brain basis of the capacity for processing social signals. These signals enable us to learn about the world from others, to learn about other people, and to create a shared social world. Social signals can be processed automatically by the receiver and may be unconsciously emitted by the sender. These signals are non-verbal and are responsible for social learning in the first year of life. Social signals can also be processed consciously and this allows automatic processing to be modulated and overruled. Evidence for this higher-level social processing is abundant from about 18 months of age in humans, while evidence is sparse for non-human animals. We suggest that deliberate social signalling requires reflective awareness of ourselves and awareness of the effect of the signals on others. Similarly, the appropriate reception of such signals depends on the ability to take another person's point of view. This ability is critical to reputation management, as this depends on monitoring how our own actions are perceived by others. We speculate that the development of these high level social signalling systems goes hand in hand with the development of consciousness.",
+		"container-title": "Current Biology",
+		"DOI": "10.1016/j.cub.2007.05.068",
+		"ISSN": "09609822",
+		"issue": "16",
+		"journalAbbreviation": "Current Biology",
+		"language": "en",
+		"page": "R724-R732",
+		"source": "DOI.org (Crossref)",
+		"title": "Social Cognition in Humans",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0960982207014923",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Frith",
+				"given": "Chris D."
+			},
+			{
+				"family": "Frith",
+				"given": "Uta"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/MAd6XQeC/items/EWEFJQNP",
+		"type": "article-journal",
+		"abstract": "The emerging viewpoint of embodied cognition holds that cognitive processes are deeply rooted in the body’s interactions with the world. This position actually houses a number of distinct claims, some of which are more controversial than others. This paper distinguishes and evaluates the following six claims: (1) cognition is situated; (2) cognition is time-pressured; (3) we off-load cognitive work onto the environment; (4) the environment is part of the cognitive system; (5) cognition is for action; (6) offline cognition is body based. Of these, the first three and the fifth appear to be at least partially true, and their usefulness is best evaluated in terms of the range of their applicability. The fourth claim, I argue, is deeply problematic. The sixth claim has received the least attention in the literature on embodied cognition, but it may in fact be the best documented and most powerful of the six claims.",
+		"container-title": "Psychonomic Bulletin & Review",
+		"DOI": "10.3758/BF03196322",
+		"ISSN": "1531-5320",
+		"issue": "4",
+		"journalAbbreviation": "Psychonomic Bulletin & Review",
+		"language": "en",
+		"page": "625-636",
+		"source": "Springer Link",
+		"title": "Six views of embodied cognition",
+		"URL": "https://doi.org/10.3758/BF03196322",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Wilson",
+				"given": "Margaret"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					4
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					12,
+					1
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#Course-index path:-\"Plugins/\" -tag:#Utility -tag:#Archived path:-\"Archive/\" path:-\"Attachments\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 14973979
+      }
+    },
+    {
+      "query": "tag:#Literature/Lecture",
+      "color": {
+        "a": 1,
+        "rgb": 14161944
+      }
+    },
+    {
+      "query": "tag:#Reference",
+      "color": {
+        "a": 1,
+        "rgb": 65480
+      }
+    },
+    {
+      "query": "tag:#Project/Obsidian101",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:#Literature",
+      "color": {
+        "a": 1,
+        "rgb": 65480
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.637092911877395,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7149623661691813,
+  "close": false
+}
