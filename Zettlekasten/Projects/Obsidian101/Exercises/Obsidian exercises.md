@@ -10,33 +10,38 @@ Subjects: [[Obsidian]], [[Getting started with Obsidian]]
 ## a. Headings
 **Make 3 headings of different importance:**
 
+### h3
+#### h4
+##### h5
 
 ## b. Linking and embedding
 **Link to another file:**
-
+[[Getting started with Obsidian]]
 
 **Create a custom/user-defined section in this file:**
-
+^ex1
 
 **Link to the custom section you just created:**
-
+[[#^ex1|Exercise 1]]
 
 **Link to a section in another file:**
-
+[[Getting started with Obsidian#1 - Markdown]]
 
 **Embed any section:**
-
+![[Creativity, Steve Jobs#^quote]]
 
 **Create a link to a website:**
+[duckduckgo](https://duckduckgo.com)
 
 ## c. Images
 **Embed an image:** (Either save a image to BaseVault/ZettleKasten/Attachments/Images, or use an existing image)
-
+![[QuickLatexExercise.svg]]
 
 **Embed a screenshot:**
 
 
 **Center an embedded image:** (Perhaps use a template?)
+<span class="centerImg">![[QuickLatexExercise.svg|200]]</span>
 
 
 **Change the size of one of the previously embedded images.**
@@ -44,21 +49,24 @@ Subjects: [[Obsidian]], [[Getting started with Obsidian]]
 
 ## d. Code blocks
 **Implement a code block with correct highlighting:**
-
+```python
+print("Hello world")
+```
 
 ## e. Escaping
 **Escape the required symbols in the following paragraphs:**
 
-The brain fuck compiler is located at: c:\path\to\brain_fuck.c
+The brain fuck compiler is located at: c:\\path\\to\\brain_fuck.c
 
-To embed a note simply write: ![[Obsidian101]]
+To embed a note simply write: `![[Obsidian101]]`
 
 **Escape a dollar sign:**
-
+\$
 
 ## f. Tables
 **Create the following table:** (Lower right corner is code)
 <span class="centerImg">![[TableExerciseTable.png|300]]</span>
+
 
 
 ## g. HTML

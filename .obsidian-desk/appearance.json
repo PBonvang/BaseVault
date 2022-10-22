@@ -5,6 +5,6 @@
     "imageClasses",
     "clean-embeds"
   ],
-  "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }

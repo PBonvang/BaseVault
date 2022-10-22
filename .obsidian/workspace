@@ -1,29 +1,39 @@
 {
   "main": {
-    "id": "0aea9d4636554e9d",
+    "id": "662ed068b7c497b5",
     "type": "split",
     "children": [
       {
-        "id": "1f77f541c8752d62",
+        "id": "538d7aaf273ec3fb",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-        }
+        },
+        "group": "5c1078a0b80bf017"
+      },
+      {
+        "id": "129865cf84f6b26b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "5c1078a0b80bf017"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fc4d959dc3deb986",
+    "id": "d181e632d0118acf",
     "type": "split",
     "children": [
       {
-        "id": "104a948ba1a63e39",
+        "id": "de39944d0af2694a",
         "type": "tabs",
         "children": [
           {
-            "id": "70d5450247e23038",
+            "id": "b6d9b1f0528d80a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +41,12 @@
             }
           },
           {
-            "id": "ac3cae016eb3a20f",
+            "id": "a9e862de7ef20590",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"critical mass\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -44,31 +54,25 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "66e163d81b58f410",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "56ea8a88f0333088",
+    "id": "3e9132a690e0b0f0",
     "type": "split",
     "children": [
       {
-        "id": "93c76f27ad103a8b",
+        "id": "d1535def4b702381",
         "type": "tabs",
         "children": [
           {
-            "id": "506aef1bb1ec7853",
+            "id": "9ce1d044c0d83f74",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -84,18 +88,7 @@
             }
           },
           {
-            "id": "ae69402e3d775df5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f81f84386d1c674",
+            "id": "1c03937d0d904732",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -106,20 +99,133 @@
             }
           },
           {
-            "id": "b424f46a2a869aaa",
+            "id": "f39244207be24a7e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
+            }
+          },
+          {
+            "id": "419e0dcf70d1d3bd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8577ed068f712121",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea00412454ab33b6",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "08ec2261e6a49fff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdde433ba2687c5f",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "674e55defd807c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba6c5adc7b432fe3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "path:Zettlekasten",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Uni/\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711880
+                      }
+                    },
+                    {
+                      "query": "tag:#Reference",
+                      "color": {
+                        "a": 1,
+                        "rgb": 65531
+                      }
+                    },
+                    {
+                      "query": "tag:#Project-idea",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7601920
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.556965153637038,
+                  "repelStrength": 5.97248537770821,
+                  "linkStrength": 1,
+                  "linkDistance": 160,
+                  "scale": 0.7132754626224449,
+                  "close": true
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 238
   },
-  "active": "1f77f541c8752d62",
-  "lastOpenFiles": []
+  "active": "cdde433ba2687c5f",
+  "lastOpenFiles": [
+    "Zettlekasten/Permanent notes/Note linking theory.md",
+    "Zettlekasten/Permanent notes/Smart notes.md",
+    "Zettlekasten/Fleeting notes/Getting started with Obsidian.md",
+    "Zettlekasten/Projects/Obsidian101/Obsidian101.md",
+    "Zettlekasten/Library/How to take smart notes.md",
+    "Zettlekasten/Permanent notes/Permanent notes.md",
+    "Zettlekasten/Fleeting notes/Literature notes.md",
+    "README.md",
+    "Zettlekasten/Fleeting notes/Niklas Luhmann.md",
+    "Zettlekasten/Fleeting notes/Useful hotkeys.md"
+  ]
 }

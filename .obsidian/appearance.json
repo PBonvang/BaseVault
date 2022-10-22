@@ -1,1 +1,10 @@
-{}
+{
+  "baseFontSize": 13,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "imageClasses",
+    "clean-embeds"
+  ],
+  "theme": "obsidian",
+  "accentColor": ""
+}

@@ -7,12 +7,8 @@
         "id": "538d7aaf273ec3fb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/Permanent notes/Useful community plugins.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "5c1078a0b80bf017"
       },
@@ -20,12 +16,8 @@
         "id": "129865cf84f6b26b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten/Permanent notes/Useful community plugins.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "5c1078a0b80bf017"
       }
@@ -85,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Permanent notes/Useful community plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettlekasten/Permanent notes/Useful community plugins.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,6 +134,14 @@
             "id": "08ec2261e6a49fff",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdde433ba2687c5f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {}
             }
@@ -162,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zettlekasten/Permanent notes/Useful community plugins.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "path:Zettlekasten",
@@ -219,7 +215,7 @@
     "direction": "horizontal",
     "width": 238
   },
-  "active": "538d7aaf273ec3fb",
+  "active": "cdde433ba2687c5f",
   "lastOpenFiles": [
     "Zettlekasten/Permanent notes/Note linking theory.md",
     "Zettlekasten/Permanent notes/Smart notes.md",
