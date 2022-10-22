@@ -19,7 +19,8 @@ Subjects: [[Obsidian]]
 | Open note (Quick switcher)           | `ctrl+o`       |
 | Go back to previously opened note    | `alt+rightkey` |
 | Go forward to previously opened note | `alt+leftkey`  |
-| Move note                            | `ctrl+m`       | 
+| Move note                            | `ctrl+m`       |
+| Toggle view mode                     | `ctrl+e`       | 
 
 # Plugins
 | Shortcut/Hotkey | Keys    | Plugin    |

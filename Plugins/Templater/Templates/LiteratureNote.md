@@ -3,6 +3,7 @@ title: <% tp.file.title %>
 authors: 
 publisher: 
 publisherPlace: 
+yearOfPublication: 
 url: 
 recommendedBy:
 ---

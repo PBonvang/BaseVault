@@ -7,9 +7,9 @@ Subjects: [[Note taking]], [[Study tools]]
 ****
 
 The term "Smart notes" comes from DR. Sönke Ahrens' book [[How to take smart notes|How to take smart notes]] which builds on the [[Zettlekasten]] note taking system.
-Smart notes are notes which helps gaining a better insight into your own understanding of concepts and their connections, while providing a network of ideas readily available, resulting in effortless work. [[Niklas Luhmann]], the inventor of [[Zettlekasten]], said his work was effortless due to this system, which compared with his accomplishments is astounding. 
+Smart notes are notes which help gaining a greater insight into your own understanding of concepts and their connections, providing a network of ideas and concepts readily available, resulting in effortless work. [[Niklas Luhmann]], the inventor of [[Zettlekasten]], said his work was effortless due to this system, which considering his accomplishments is astounding. 
 
-The purpose of smart notes is to make meaningful, easily searchable and inspiring notes.
+The purpose of smart notes is to make useful, easily searchable and inspiring notes. See also [[How to take useful notes]].
 
 # Context
 There's no such thing as a Smart note, only collections of smart notes exist. The context of a note; What is its subject? Which concepts relate to this or could be combined with this? This context is just as important as the content, it's how new ideas and concepts are formed in your brain modelled in your notes, and what makes slapping together an article easy. This is how smart notes inspire you to write more, and thus learn more.
@@ -20,6 +20,7 @@ A note itself can thus not be smart as it doesn't have a context, rather the net
 Smart notes comes in different forms/types with different purposes, together creating the network of smart notes.
 - [[Fleeting notes]]
 - [[Permanent notes]]
+- [[MOC - Map Of Content]]
 - [[Literature notes]]/[[Reference notes]]
 - [[Project notes]]
 

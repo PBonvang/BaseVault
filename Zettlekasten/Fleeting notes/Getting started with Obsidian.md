@@ -12,7 +12,7 @@ Obsidian implements the basic markdown syntax with some additional features, suc
 A good and quick guide for basic markdown syntax can be found here: https://www.markdownguide.org/basic-syntax.
 
 # 2 - Linking your thoughts
-*Notes are only as valuable as its context.*
+*Notes are only as valuable as their context.*
 Notes by themselves can be useful, but usually relies heavily on the knowledge surrounding it. It's very hard to understand curl of a vector field without first understanding what a vector field is. Thus the context of a note is just as important as its content.
 
 **Linking syntax:**
@@ -88,31 +88,33 @@ Once you've got the basics of using Obsidian down:
 - How to use plugins
 
 We're ready to continue on to the discussion of how to structure your notes and their interactions in a meaningful way. We're now going talk about the following questions:
-- What is a [[Smart notes|smart note]]?
-- How do I take meaningful notes?
+- [[Smart notes|What is a smart note?]]
+- [[How to take useful notes|How do I take meaningful notes?]]
 
+With this understanding of what good notes are, take a look at the [[Zettlekasten]] method, which explains the note flow, vault structure and the reasoning behind it.
+I highly recommend reading the book [How to take smart notes](https://www.soenkeahrens.de/en/takesmartnotes) by DR. Sönke Ahrens which explains Zettlekasten in much more detail. 
 
-The structure of a personal vault is and should heavily depend on the personal preferences of the owner.
-Are you a student in need of a encyclopedia where you can quickly find formulas, methods and theorems it's probably more useful to implement a wiki like structure in your notes. Simply referencing other notes when mentioned directly in the text or in a *See also* section.
+Getting started taking [[smart notes]] can feel overwhelming at first. So many processes, so many [[fleeting notes]] to convert, will I ever be done?! Well no, and that is kind of the point.
+Firstly starting anything new is hard, but also exiting, and it's always in the start everything improves rapidly. It's simply a new system you have to get used to, which you will very quickly. 
+Have in mind that the structure and flow of the system should fit you. If you are annoyed by some process, change it. So something over and over, automate it. Have an idea of how to improve your system, try it.
+Don't be afraid to try new ideas, but remember to give it some time. It needs to become a habit before you can really tell if it's worth your time.
 
+Taking smart notes takes time and focus, but see this as an investment with [[Compounding interest]]. The more notes you put onto it the better you note portfolio gets. And the better it gets the more creative and inspired you'll get. It's always easier to start from already existing knowledge, which is why more notes will make acquiring new much easier. This combined with the fact that taking smart notes is training how to learn, with will increase the speed of which you learn new concepts.
+Research shows that knowledge connected to existing knowledge and used in different contexts, are much better retained. Which is why the process of transforming [[Fleeting notes]] into [[permanent notes]] is so important.
 
-- Wiki
-- Zettlekasten
-- Note standardization
-- Note flow
-- Continuous developing critical mass
+Note that permanent notes aren't set in stone. With new understandings and experiences you'll probably find that what you wrote earlier doesn't sufficiently explain the concept, contradicts with new knowledge or was placed in the wrong context. This is normal. The critical mass is a living thing, it's your second brain. It evolves just like you do, and should be changed to fit new perspectives and understanding. 
+
 # 7 - Common mistakes
 
 1. Noting everything
 2. Incorporating project notes in your critical mass
 3. Not reviewing your notes
-
+4. Getting overflown with fleeting notes
 
 # 8 - Tips and tricks
 - [[Useful hotkeys]]
-- [[Note taking vocabulary]]
-
-
+- Make templates!
+- Use quick switcher to create new notes, instead of directly creating a new note. This allows you to check if there exist a context for the new concept/note, maybe with a different name than you had thought of. You can the create the note in the context and change the title as you wish, keeping the context.
 
 # References
-- [[Smart notes]]
+- [[How to take smart notes]]

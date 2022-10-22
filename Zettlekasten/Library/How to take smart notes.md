@@ -8,8 +8,8 @@ url: https://www.soenkeahrens.de/en/takesmartnotes
 
 Created: `$= dv.current().file.ctime`
 Modified: `$= dv.current().file.mtime`
-Tags: [#Literature]
-Subjects: [[Smart notes]]
+Tags: [#Literature/Book, #Reference/Book]
+Subjects: [[Smart notes]], [[Zettlekasten]]
 ****
 
  <p align="center">

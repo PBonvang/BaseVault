@@ -21,5 +21,7 @@ Go through the check list before making a note a permanent note:
 - [ ] Does it reference the source of the knowledge?
 
 If the note checks off every point on this list, it's a worthy permanent note and should thus be a permanent note.
+
+Note that permanent notes aren't set in stone, but is continuously updated with new understandings of the concept. A fleeting or literature note can therefore update existing permanent notes.
 # References
 - [[How to take smart notes]]

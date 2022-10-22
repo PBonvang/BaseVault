@@ -14,27 +14,37 @@ Subjects: [[Obsidian]], [[Getting started with Obsidian]]
 ## b. Linking and embedding
 **Link to another file:**
 
+
 **Create a custom/user-defined section in this file:**
+
 
 **Link to the custom section you just created:**
 
+
 **Link to a section in another file:**
 
+
 **Embed any section:**
+
 
 **Create a link to a website:**
 
 ## c. Images
 **Embed an image:** (Either save a image to BaseVault/ZettleKasten/Attachments/Images, or use an existing image)
 
+
 **Embed a screenshot:**
+
 
 **Center an embedded image:** (Perhaps use a template?)
 
+
 **Change the size of one of the previously embedded images.**
+
 
 ## d. Code blocks
 **Implement a code block with correct highlighting:**
+
 
 ## e. Escaping
 **Escape the required symbols in the following paragraphs:**
@@ -45,13 +55,16 @@ To embed a note simply write: ![[Obsidian101]]
 
 **Escape a dollar sign:**
 
+
 ## f. Tables
 **Create the following table:** (Lower right corner is code)
 <span class="centerImg">![[TableExerciseTable.png|300]]</span>
 
+
 ## g. HTML
 **Colour the following paragraph:**
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
 
 # 2. Shortcuts
 **Insert the keys for the shortcuts in the following table:**
@@ -70,15 +83,16 @@ To embed a note simply write: ![[Obsidian101]]
 
 ```ad-warning
 title: Answer
-collapse: open
+collapse: close
 
 See [[Useful hotkeys]]
 ```
 
 # 3. Plugins
-**Insert a template:**
+**(Templater) Insert a template:**
 
-**Write the following LaTeX expression using the shortcuts from Quick LaTeX:**
+
+**(Quick LaTeX) Write the following LaTeX expression using the shortcuts from Quick LaTeX:**
 <span class="centerImg">![[QuickLatexExercise.svg|250]]</span>
 
 ```ad-warning
@@ -89,6 +103,10 @@ $$\A=\frac{\delta}{\pi+b^{2}}\approx \left(\frac{9}{10}\right)^{2}$$
 or
 $$\mathbf{A}=\frac{\delta}{\pi+b^{2}}\approx \left(\frac{9}{10}\right)^{2}$$
 ```
+
+
+**(Dataview) Get the creation date of this file:**
+`$= dv`
 
 # References
 - https://www.markdownguide.org/basic-syntax
