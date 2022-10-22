@@ -22,11 +22,13 @@ Templates are note snippets which can alter, add content to, move notes, and so 
 This is truly a plugin worth checking out.
 
 # Admonition
+**NOW NATIVELY SUPPORTED IN OBSIDIAN:** [Obsidian Callouts](https://help.obsidian.md/How+to/Use+callouts)
+
 [Admonition](https://github.com/valentine195/obsidian-admonition) provides beautiful blocks collapsible blocks which can be used to highlight theorems, methods and the like.
 
 **Example:**
 ```ad-tip
-title: Theorem 3.14  Central Limit Theorem
+title: Theorem 3.14 <br>  Central Limit Theorem
 collapse: open
 
 Let $\bar{X}$ be the sample mean of a random sample of size $n$ taken from a population with mean $\mu$ and variance $\sigma^{2}$, then

@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Literature/Lecture",
+      "query": "path:\"Zettlekasten/Fleeting notes\"",
       "color": {
         "a": 1,
         "rgb": 14161944
@@ -54,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7149623661691813,
-  "close": false
+  "close": true
 }

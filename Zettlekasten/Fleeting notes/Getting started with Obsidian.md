@@ -81,7 +81,7 @@ Some tools which you might find helpful:
 - [Mathpix](https://mathpix.com): Mathpix is an online OCR made for LaTeX translation. This is a real time saver, instead of having to copy long LaTeX formulas simply screen shot it, through it in Mathpix and voila you've got the formula in a nice and modifiable format. Mathpix has a free trial, which works just fine if you're not copying full PDFs worth of text, else their subscription is less than 50 DKK per month.
 - [Zotero](https://www.zotero.org/): Zotero is a personal research assistant, which keeps track of read articles and papers, seen videos, visited sites that you wish to refer to in the future. It's essentially a library of sources which automatically generates citations and bibliographies links. Combined with the [Zotero obsidian](https://github.com/mgmeyers/obsidian-zotero-integration) plugin, it becomes even easier.
 
-# 6 - Systemic note taking / Note mindset
+# 6 - Systemic note taking & mindset
 Once you've got the basics of using Obsidian down:
 - Basic markdown
 - How to link in a meaningful way
@@ -92,15 +92,21 @@ We're ready to continue on to the discussion of how to structure your notes and 
 - How do I take meaningful notes?
 
 
-
-The structure of a personal vault is and should heavily depend on the person.
+The structure of a personal vault is and should heavily depend on the personal preferences of the owner.
 Are you a student in need of a encyclopedia where you can quickly find formulas, methods and theorems it's probably more useful to implement a wiki like structure in your notes. Simply referencing other notes when mentioned directly in the text or in a *See also* section.
 
 
 - Wiki
 - Zettlekasten
 - Note standardization
+- Note flow
+- Continuous developing critical mass
 # 7 - Common mistakes
+
+1. Noting everything
+2. Incorporating project notes in your critical mass
+3. Not reviewing your notes
+
 
 # 8 - Tips and tricks
 - [[Useful hotkeys]]
